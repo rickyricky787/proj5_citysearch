@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proj5_citysearch/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/proj5_citysearch/static/js/main.483ae70b.chunk.js",
+    "main.js.map": "/proj5_citysearch/static/js/main.483ae70b.chunk.js.map",
+    "runtime-main.js": "/proj5_citysearch/static/js/runtime-main.2d72fc69.js",
+    "runtime-main.js.map": "/proj5_citysearch/static/js/runtime-main.2d72fc69.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/proj5_citysearch/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.e129e37d.chunk.js": "/proj5_citysearch/static/js/2.e129e37d.chunk.js",
+    "static/js/2.e129e37d.chunk.js.map": "/proj5_citysearch/static/js/2.e129e37d.chunk.js.map",
+    "index.html": "/proj5_citysearch/index.html",
+    "precache-manifest.490e9035dcd3a3e80968d4f2f7bb8150.js": "/proj5_citysearch/precache-manifest.490e9035dcd3a3e80968d4f2f7bb8150.js",
+    "service-worker.js": "/proj5_citysearch/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/proj5_citysearch/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/proj5_citysearch/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e129e37d.chunk.js.LICENSE.txt": "/proj5_citysearch/static/js/2.e129e37d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d72fc69.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.e129e37d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.483ae70b.chunk.js"
+  ]
+}
